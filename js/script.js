@@ -42,6 +42,12 @@
         "mp3": "music/殇 - 杰奎琳·杜普雷 .mp3"
     },
     {
+        "title": "风の誓",
+        "artist": "梁邦彦い",
+        "cover": "img/bg.jpg",
+        "mp3": "music/风の誓 - 梁邦彦い.mp3"
+    },
+    {
         "title": "琵琶语",
         "artist": "林海",
         "cover": "img/bg.jpg",
