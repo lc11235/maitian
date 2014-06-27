@@ -968,6 +968,13 @@
       } else {
         switchTrack(++currentTrack);
       }
+    } else if (event.keyCode == 32){
+      event.preventDefault();
+      if ($('.playback').hasClass('playing')){
+        pause();
+      } else {
+        play();
+      }
     } 
   }); 
 })(jQuery);
