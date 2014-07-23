@@ -724,7 +724,7 @@
     var item = playlist[i],
       newaudio = $('<audio>').html('<source src="./music/'+item.title+' - '+item.artist+'.mp3">').appendTo('#player');
     
-    $('.cover').html('<img src="./img/bg'+random+'.jpg" alt="'+item.title+'">');
+    $('.cover').html('<img src="./img/bg'+random+'.webp" alt="'+item.title+'">');
     $('.tag').html('<strong>'+item.title+'</strong><span class="artist">'+item.artist+'</span>');
     $('#playlist li').removeClass('playing').eq(i).addClass('playing');
     if ($('#playlist li').eq(i).offset().top > 600) {
@@ -739,7 +739,7 @@
     audio.addEventListener('ended', ended, false);
 
     // change background image
-    $('#background').css('background-image', 'url(./img/bg' + random + '.jpg)');
+    $('#background').css('background-image', 'url(./img/bg' + random + '.webp)');
   }
 
   loadMusic(currentTrack);
