@@ -720,7 +720,7 @@
 
   // Load track
   var loadMusic = function(i){
-    var random = Math.floor(1 + Math.random() * 15);
+    var random = Math.floor(1 + Math.random() * 9);
     var item = playlist[i],
       newaudio = $('<audio>').html('<source src="./music/'+item.title+' - '+item.artist+'.mp3">').appendTo('#player');
     
