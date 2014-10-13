@@ -584,6 +584,54 @@
     {
         "title": "Flower Dance",
         "artist": "DJ OKAWARI"
+    },
+    {
+        "title": "Mi Pequena Estrella",
+        "artist": "Solas"
+    },
+    {
+        "title": "Moon Flow",
+        "artist": "Nomak"
+    },
+    {
+        "title": "My Irish Friend",
+        "artist": "Secret Garden"
+    },
+    {
+        "title": "Pearl White Story",
+        "artist": "S.E.N.S"
+    },
+    {
+        "title": "Renegade",
+        "artist": "Yanni"
+    },
+    {
+        "title": "サクラ サクラ (Instrumental with 尺八三味线)",
+        "artist": "Rin"
+    },
+    {
+        "title": "峨眉金顶",
+        "artist": "卢小旭"
+    },
+    {
+        "title": "峠",
+        "artist": "遠TONE音"
+    },
+    {
+        "title": "奇迹の山",
+        "artist": "岸部真明"
+    },
+    {
+        "title": "山海之歌",
+        "artist": "吴金黛"
+    },
+    {
+        "title": "杨柳",
+        "artist": "范宗沛"
+    },
+    {
+        "title": "夜的钢琴曲一",
+        "artist": "石进"
     }
 ]
 
