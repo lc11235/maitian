@@ -632,6 +632,26 @@
     {
         "title": "夜的钢琴曲一",
         "artist": "石进"
+    },
+    {
+        'title': "風のとおり道",
+        "artist": "Joe Hisaishi"
+    },
+    {
+        "title": "烟雨江南",
+        "artist": "周志宏"
+    },
+    {
+        "title": "天空之城",
+        "artist": "AGTM 木吉他俱乐部"
+    },
+    {
+        "title": "田野静悄悄",
+        "artist": "包朝克"
+    },
+    {
+        "title": "田野静悄悄",
+        "artist": "纯音乐"
     }
 ]
 
