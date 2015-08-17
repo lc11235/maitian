@@ -652,6 +652,42 @@
     {
         "title": "田野静悄悄",
         "artist": "纯音乐"
+    },
+    {
+        "title": "茜云",
+        "artist": "遠TONE音"
+    },
+    {
+        "title": "Beyond The Trails Of Tears",
+        "artist": "Amanecer Ecuador"
+    },
+    {
+        "title": "Matsuri",
+        "artist": "Amernan"
+    },
+    {
+        "title": "NEXT TO YOU",
+        "artist": "Ken Arai"
+    },
+    {
+        "title": "Last Of The Wilds",
+        "artist": "Nightwish"
+    },
+    {
+        "title": "予感",
+        "artist": "Sensitive Heart"
+    },
+    {
+        "title": "Empire of Angels",
+        "artist": "Thomas Bergersen"
+    },
+    {
+        "title": "Tatanka",
+        "artist": "Various Artists"
+    },
+    {
+        "title": "秋姉妹のなく頃に in the autumn sky",
+        "artist": "ばんばんしー"
     }
 ]
 
