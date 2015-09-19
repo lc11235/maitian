@@ -822,9 +822,10 @@
     if (autoplay == true) play();
   }
 
+    var random = Math.floor(1 + Math.random() * 9);
+    $('#background').css('background-image', 'url(./img/bg' + random + '.webp)');
   // Load track
   var loadMusic = function(i){
-    var random = Math.floor(1 + Math.random() * 9);
     var item = playlist[i],
       newaudio = $('<audio>').html('<source src="./music/'+item.title+' - '+item.artist+'.mp3">').appendTo('#player');
     
@@ -843,7 +844,7 @@
     audio.addEventListener('ended', ended, false);
 
     // change background image
-    $('#background').css('background-image', 'url(./img/bg' + random + '.webp)');
+    // $('#background').css('background-image', 'url(./img/bg' + random + '.webp)');
   }
 
   loadMusic(currentTrack);
