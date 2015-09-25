@@ -688,6 +688,26 @@
     {
         "title": "秋姉妹のなく頃に in the autumn sky",
         "artist": "ばんばんしー"
+    },
+    {
+        "title": "寂静之声",
+        "artist": "明仔"
+    },
+    {
+        "title": "The Last Of The Mohicans",
+        "artist": "Amanecer Ecuador"
+    },
+    {
+        "title": "Mayampi",
+        "artist": "Amernan"
+    },
+    {
+        "title": "It's only the fairy tale",
+        "artist": "梶浦由記"
+    },
+    {
+        "title": "致青春",
+        "artist": "Piano by kschanmusic"
     }
 ]
 
